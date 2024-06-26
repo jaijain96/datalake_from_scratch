@@ -1,0 +1,19 @@
+autopep8==2.0.1
+black @ file:///croot/black_1680737249031/work
+blinker==1.6.2
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+click==8.1.3
+flake8==6.1.0
+Flask==2.3.2
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.2
+mccabe==0.7.0
+mypy-extensions==0.4.3
+packaging @ file:///croot/packaging_1678965309396/work
+pathspec @ file:///croot/pathspec_1674681560568/work
+platformdirs @ file:///opt/conda/conda-bld/platformdirs_1662711380096/work
+pycodestyle==2.11.0
+pyflakes==3.1.0
+tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
+Werkzeug==2.3.7
